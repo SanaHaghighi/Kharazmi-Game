@@ -22,8 +22,8 @@ The game employs cloud-based score tracking, time management logic, and visual d
 ---
 
 ## 🧠 Technical Highlights
-- **Language:** Python / JavaScript (depending on build mode)
-- **Frameworks:** HTML5, CSS3, and a logic engine supporting real-time calculations  
+- **Language:** C#, ShaderLab, HLSL (with minor C/C++ for optimization)
+- **Frameworks:** Unity Engine core APIs
 - **Design Architecture:** MAPE-based adaptive model (Monitor, Analyze, Plan, Execute)  
 - **UI/UX Principles:** Simple, clear visual hierarchy; gamified interaction flow; child-friendly assets  
 - **Version:** Final Clean Release 
