@@ -41,10 +41,11 @@ Supervised by **Dr. Mojtaba Vahidi Asl**, Shahid Beheshti University — Winter 
 ## 🚀 Getting Started
 
 ### Clone & Setup
+
 git clone https://github.com/SanaHaghighi/Kharazmi-Game.git
+
 cd Kharazmi-Game
 
-If you are starting from a clean local directory (no previous .git history), initialize git again:
 git init
 git add .
 git commit -m "initial clean release"
