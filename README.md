@@ -1,69 +1,58 @@
 # Kharazmi-Game  
-**An Educational Math Game for Middle School Students (Grade 8)**  
-*Designed & Conceptualized by Sana Haghighi — Product Designer & UX Researcher*
+**An Educational Math Game for Middle School Students (Grade 7)**  
+*Designed & Conceptualized by Sana Haghighi — Product Designer & UX Researcher*
 
 ---
 
 ## 🎯 Overview  
-**Kharazmi-Game** is an interactive learning experience aimed at helping middle-school students (Grade 8) master algebraic concepts through play-based engagement.  
-Built under an academic research framework, the game transforms *abstract mathematical relations* into *visual balance puzzles*, driving intuitive understanding through motion, challenge, and reward flow.
+**Kharazmi-Game** is a creative math game that introduces algebraic logic to 13‑year‑old students (Grade 7) through colorful, story‑driven stages.  
+Each level transforms abstract math concepts into interactive experiences, blending imagination with structured learning.  
+Developed for both **desktop and tablet platforms**, the game is accessible to a wide range of learners.
 
 ---
 
 ## 🌱 Educational Context  
-This project was originally developed as part of an academic research initiative focused on **learning design** and **gamified education**.  
-Its pedagogical structure targets the problem-solving skills of 13–14‑year‑old learners, balancing visual interactivity with mathematical reasoning.
+Rooted in research on **gamified learning and cognitive UX**, this project teaches algebra through motion‑guided scenes rather than static equations.  
+The game helps learners connect visual perception and logical reasoning, building sustained focus and concept mastery.
 
 ---
 
 ## 🎮 Gameplay Structure  
-The game progresses across **four distinct stages**, each designed and prototyped to challenge students from different cognitive angles:
 
-| Stage | Focus Area | Learning Goal |
-|-------|-------------|---------------|
-| **Stage 1 — The Scale** | Visual Equilibrium | Comprehend equality and balance through motion-based puzzles |
-| **Stage 2 — The Rain** | Pattern Recognition | Strengthen arithmetic simplification and logical grouping |
-| **Stage 3 — The Model** | Algebraic Construction | Form and test algebraic equations intuitively |
-| **Stage 4 — The Advanced Challenge** | Applied Problem Solving | Integrate learned algebraic skills under time and adaptive difficulty |
-
-Each stage was carefully adapted to the learning level of **Grade 8 students**, ensuring that difficulty progression matches the academic curriculum and cognitive load required.
+| Stage | Title & Description | Learning Goal |
+|-------|--------------------|---------------|
+| **Stage 1 — Dream Kite Flight** | Fly your magical kite through the sky to collect *similar algebraic expressions*. The more matching terms you catch, the longer and brighter your kite tail grows—and you earn extra time for upcoming challenges! | Identify and group algebraic expressions by visual and logical similarity, building pattern recognition and speed. |
+| **Stage 2 — The Balance of Equations** | Step into the world of equilibrium. Solve algebraic equations represented as a **scale**; every correct answer balances the plates and earns time bonuses and “Kharazmi badges.” | Understand equality and algebraic balance through dynamic visual feedback and precise logical analysis. |
+| **Stage 3 — Rain of Algebraic Expressions** | The algebra sky opens! Raindrops of expressions fall—you must collect and arrange them correctly to build complete and valid formulas. Each successful expression earns a *Kharazmi badge*. | Practice constructing algebraic expressions under time constraint, strengthening conceptual synthesis and rapid decision‑making. |
+| **Stage 4 — Maze of Visual Challenges** | Final level! Navigate through a **visual puzzle maze** full of geometric or numeric riddles. Here you solve problems like finding areas or identifying angles—no equations, only intuition and focus. | Apply mathematical reasoning visually; integrate learned logic and enhance spatial‑visual math understanding. |
 
 ---
 
 ## 🧩 Design Role  
-As the **Product Designer** and **UX Architect**, Sana directed:
-- **Stage Design Logic:** Constructed full gameplay flow according to learner psychology and engagement feedback.  
-- **Interaction Modeling:** Developed the rhythm of challenge/reward using the MAPE framework (Monitor, Analyze, Plan, Execute).  
-- **UI/UX Design:** Created visual hierarchy, feedback sequence, and minimalistic interface for clarity and focus.  
-- **Human–Computer Interaction:** Defined adaptive responses and real-time loops tailored for educational reinforcement.  
+As **Product Designer** and **UX Architect**, Sana guided the entire experience from learning model to visual flow:
+- **Stage Logic Design:** Defined structure and pacing based on cognitive development of Grade 7 learners.  
+- **UX Architecture:** Applied **MAPE framework** (Monitor, Analyze, Plan, Execute) to create adaptive feedback and challenge progression.  
+- **Visual & Interaction System:** Crafted minimal, student‑friendly interface with reward cues and real‑time motion elements.  
+- **Learning Psychology:** Balanced performance pressure and enjoyment to maintain continuous educational motivation.  
 
-Focus was placed on **conceptual balance between aesthetic simplicity and cognitive challenge**, not source coding.
+Focus points: **educational gamification**, **conceptual learning**, and **experiential clarity**, not code development.
 
 ---
 
 ## 🔧 Technical Highlights  
-**Engine:** Unity (using minor C#/ShaderLab elements for procedural visuals)  
-**Languages:** C#, ShaderLab, HLSL *(implemented by collaborators for graphics)*  
-**Framework:** Custom interaction logic built on Unity API  
-**Design Architecture:** MAPE-based adaptive user interaction model  
-**UI/UX Principles:** Minimalist, child-centric design; clear progression feedback  
-**Version:** Final Educational Release  
+**Engine:** Unity (runtime build for desktop + web)  
+**Languages:** C#, ShaderLab, HLSL *(used by development collaborators for visual engine)*  
+**Framework:** MAPE‑based adaptive interaction model built on Unity APIs  
+**UI/UX Principles:** Progressive feedback · child‑oriented contrast · time‑based rewards  
+**Version:** Final Educational Release  
 
-> Note: Technical implementation supported the product design and was co-engineered by development collaborators.
+> Implementation followed design specifications and pedagogical parameters defined by Sana Haghighi.
 
 ---
 
 ## 📚 Academic Integration  
-The game was implemented and evaluated among Grade 8 students in Tehran (academic year 1403‑1404)  
-to assess usability, engagement, and learning performance improvement.  
-Results confirmed that **well-designed gamified experiences** significantly enhance algebraic understanding and motivation.
-
----
-
-## 🚀 Future Directions  
-- Integration with dynamic AI tutors for personalized difficulty scaling  
-- Extending the design pattern to Geometry and Fraction modules  
-- Cross‑platform adaptation for classroom simulation environments
+The game was tested among **Grade 7 students** in Tehran (academic year 1403 – 1404)  
+to evaluate engagement and learning impact. Results revealed significant improvement in algebra comprehension and motivation through visual‑experiential gamification.
 
 ---
 
@@ -92,11 +81,10 @@ git push -u origin main
 
 ---
 
-## 🧩 Future Work & Expansion
-- Integration with educational metrics (tests/pre-tests, scoring analytics)  
-- Multiplayer or classroom dashboard  
-- Adaptive progression engine based on student performance history  
-- Visual polish with React/WebGL for dynamic interaction  
+## 🚀 Future Directions  
+- Incorporating AI‑driven adaptive tutoring  
+- Expanding modules to **Geometry** and **Fraction Theory**  
+- Deploying cross‑platform versions for classroom simulation  
 
 ---
 
@@ -108,7 +96,7 @@ Feel free to fork and learn, but all academic credits must reference the origina
 ---
 
 ## 🪄 Credits  
-- **Concept & Product Design:** *Sana Haghighi*  
-- **Academic Supervision:** Dr. Mojtaba Vahidi Asl  
-- **Implementation Support:** Unity/C# Development Team  
-- **Testing & Validation:** Middle‑school classrooms, Tehran Region II
+- **Concept & Product Design:** Sana Haghighi  
+- **Academic Supervision:** Dr. Mojtaba Vahidi Asl  
+- **Development Support:** Unity/C# Implementation Team  
+- **Testing & Validation:** Grade 7 classrooms, Tehran Region II
