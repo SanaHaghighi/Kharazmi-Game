@@ -41,3 +41,70 @@ Supervised by **Dr. Mojtaba Vahidi Asl**, Shahid Beheshti University — Winter 
 ## 🚀 Getting Started
 
 ### Clone & Setup
+---
+
+## 🚀 Getting Started
+
+### Clone & Setup
+bash
+
+git clone https://github.com/SanaHaghighi/Kharazmi-Game.git
+
+cd Kharazmi-Game
+
+
+content_copy
+
+
+If you are starting from a clean local directory (no previous `.git` history), initialize git again:
+bash
+
+git init
+
+git add .
+
+git commit -m “initial clean release”
+
+git branch -M main
+
+git remote add origin https://github.com/SanaHaghighi/Kharazmi-Game.git
+
+
+content_copy
+
+
+### Push to GitHub
+Now push your project to your repository:
+bash
+
+git push -u origin main
+
+
+content_copy
+
+
+> 💡 **Tip:** When prompted for authentication, paste your **GitHub Personal Access Token (PAT)** instead of your password.  
+> You can safely paste it using **Shift + Insert** (Windows).  
+> PAT is stored locally by Git Credential Manager unless manually disabled.
+
+---
+
+## 🧩 Future Work & Expansion
+- Integration with educational metrics (tests/pre-tests, scoring analytics)  
+- Multiplayer or classroom dashboard  
+- Adaptive progression engine based on student performance history  
+- Visual polish with React/WebGL for dynamic interaction  
+
+---
+
+## ✨ License
+This project is currently under an **Academic Non‑Commercial License**.  
+Feel free to fork and learn, but all academic credits must reference the original author:  
+**Sana Haghighi — Shahid Beheshti University**
+
+---
+
+## 💬 Credits
+Developed & documented by **Sana Haghighi**  
+Supervised by **Dr. Mojtaba Vahidi Asl**  
+Department of Computer Engineering — Shahid Beheshti University
