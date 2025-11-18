@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 0a1de8010bd14fc4eaac7ed2b306e9d4
+timeCreated: 1538163664
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Versalita&
+  fontNames:
+  - Versalita&
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

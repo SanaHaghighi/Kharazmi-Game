@@ -1,0 +1,1371 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d47a0971d426651479322e80a22fbc68, type: 3}
+  m_Name: Equation Bank
+  m_EditorClassIdentifier: 
+  easyEquations:
+  - equationText: x-4=11
+    correctAnswer:
+    - 15
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer1:
+    - 7
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer2:
+    - -15
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer3:
+    - -7
+    - ' '
+    - ' '
+    - ' '
+    encapsulatingXR: []
+    numberXR: 0
+    numberR: 11
+    encapsulatingXL:
+    - x
+    numberXL: 1
+    numberL: -4
+    incorrectAnswerLeftOrRight: 00000000ffffffffffffffffffffffff
+  - equationText: -4x=8
+    correctAnswer:
+    - -2
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer1:
+    - 2
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer2:
+    - 4
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer3:
+    - -4
+    - ' '
+    - ' '
+    - ' '
+    encapsulatingXR: []
+    numberXR: 0
+    numberR: 8
+    encapsulatingXL:
+    - -x
+    numberXL: 1
+    numberL: 0
+    incorrectAnswerLeftOrRight: 00000000ffffffffffffffff01000000
+  - equationText: 4a=1
+    correctAnswer:
+    - _
+    - ' '
+    - 1
+    - 4
+    incorrectAnswer1:
+    - 4
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer2:
+    - -4
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer3:
+    - _
+    - ' '
+    - -1
+    - 4
+    encapsulatingXR: []
+    numberXR: 0
+    numberR: 1
+    encapsulatingXL:
+    - a
+    numberXL: 4
+    numberL: 0
+    incorrectAnswerLeftOrRight: 0000000001000000ffffffffffffffff
+  - equationText: -7x=-21
+    correctAnswer:
+    - 3
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer1:
+    - -3
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer2:
+    - 2
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer3:
+    - -2
+    - ' '
+    - ' '
+    - ' '
+    encapsulatingXR: []
+    numberXR: 0
+    numberR: -21
+    encapsulatingXL:
+    - -x
+    numberXL: 7
+    numberL: 0
+    incorrectAnswerLeftOrRight: 00000000010000000100000001000000
+  - equationText: 8x-1=7
+    correctAnswer:
+    - 1
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer1:
+    - -1
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer2:
+    - 0
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer3:
+    - 16
+    - ' '
+    - ' '
+    - ' '
+    encapsulatingXR: []
+    numberXR: 0
+    numberR: 7
+    encapsulatingXL:
+    - x
+    numberXL: 8
+    numberL: -1
+    incorrectAnswerLeftOrRight: 00000000ffffffffffffffff01000000
+  - equationText: 3a=0
+    correctAnswer:
+    - 0
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer1:
+    - 3
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer2:
+    - -3
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer3:
+    - 1
+    - ' '
+    - ' '
+    - ' '
+    encapsulatingXR: []
+    numberXR: 0
+    numberR: 0
+    encapsulatingXL:
+    - x
+    numberXL: 3
+    numberL: 0
+    incorrectAnswerLeftOrRight: 0000000001000000ffffffff01000000
+  - equationText: 0=2x+32
+    correctAnswer:
+    - -16
+    - 
+    - ' '
+    - ' '
+    incorrectAnswer1:
+    - 12
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer2:
+    - 16
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer3:
+    - -12
+    - ' '
+    - ' '
+    - ' '
+    encapsulatingXR:
+    - x
+    numberXR: 2
+    numberR: 32
+    encapsulatingXL: []
+    numberXL: 0
+    numberL: 0
+    incorrectAnswerLeftOrRight: 00000000010000000100000001000000
+  - equationText: 5x=x-4
+    correctAnswer:
+    - -1
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer1:
+    - 1
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer2:
+    - 2
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer3:
+    - 4
+    - ' '
+    - ' '
+    - ' '
+    encapsulatingXR:
+    - x
+    numberXR: 1
+    numberR: -4
+    encapsulatingXL:
+    - x
+    numberXL: 5
+    numberL: 0
+    incorrectAnswerLeftOrRight: 00000000010000000100000001000000
+  - equationText: 0=4+2a
+    correctAnswer:
+    - -2
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer1:
+    - 2
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer2:
+    - 1
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer3:
+    - 8
+    - ' '
+    - ' '
+    - ' '
+    encapsulatingXR:
+    - a
+    numberXR: 2
+    numberR: 4
+    encapsulatingXL: []
+    numberXL: 0
+    numberL: 0
+    incorrectAnswerLeftOrRight: 00000000010000000100000001000000
+  - equationText: 0=3m-6
+    correctAnswer:
+    - 2
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer1:
+    - -2
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer2:
+    - 3
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer3:
+    - -3
+    - ' '
+    - ' '
+    - ' '
+    encapsulatingXR:
+    - m
+    numberXR: 3
+    numberR: -6
+    encapsulatingXL: []
+    numberXL: 0
+    numberL: 0
+    incorrectAnswerLeftOrRight: 00000000ffffffff01000000ffffffff
+  - equationText: 0=2m-1
+    correctAnswer:
+    - _
+    - ' '
+    - 1
+    - 2
+    incorrectAnswer1:
+    - _
+    - ' '
+    - -1
+    - 2
+    incorrectAnswer2:
+    - 3
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer3:
+    - 2
+    - ' '
+    - ' '
+    - ' '
+    encapsulatingXR:
+    - m
+    numberXR: 2
+    numberR: -1
+    encapsulatingXL: []
+    numberXL: 0
+    numberL: 0
+    incorrectAnswerLeftOrRight: 00000000ffffffff0100000001000000
+  - equationText: -5b+1=-4
+    correctAnswer:
+    - 1
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer1:
+    - -1
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer2:
+    - _
+    - ' '
+    - -3
+    - 5
+    incorrectAnswer3:
+    - _
+    - ' '
+    - 3
+    - 5
+    encapsulatingXR:
+    - -b
+    numberXR: 5
+    numberR: 1
+    encapsulatingXL: []
+    numberXL: 0
+    numberL: -4
+    incorrectAnswerLeftOrRight: 00000000010000000100000001000000
+  - equationText: -10x=0
+    correctAnswer:
+    - 0
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer1:
+    - -10
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer2:
+    - 10
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer3:
+    - 1
+    - ' '
+    - ' '
+    - ' '
+    encapsulatingXR: []
+    numberXR: 0
+    numberR: 0
+    encapsulatingXL:
+    - -x
+    numberXL: 10
+    numberL: 0
+    incorrectAnswerLeftOrRight: 0000000001000000ffffffffffffffff
+  - equationText: 8=m+5
+    correctAnswer:
+    - 3
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer1:
+    - -3
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer2:
+    - 13
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer3:
+    - 12
+    - ' '
+    - ' '
+    - ' '
+    encapsulatingXR:
+    - m
+    numberXR: 1
+    numberR: 5
+    encapsulatingXL: []
+    numberXL: 0
+    numberL: 8
+    incorrectAnswerLeftOrRight: 00000000ffffffff0100000001000000
+  - equationText: -10x=8x-9
+    correctAnswer:
+    - _
+    - ' '
+    - 1
+    - 2
+    incorrectAnswer1:
+    - _
+    - ' '
+    - -1
+    - 2
+    incorrectAnswer2:
+    - 2
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer3:
+    - -2
+    - ' '
+    - ' '
+    - ' '
+    encapsulatingXR:
+    - x
+    numberXR: 8
+    numberR: -9
+    encapsulatingXL:
+    - -x
+    numberXL: 10
+    numberL: 0
+    incorrectAnswerLeftOrRight: 00000000ffffffff01000000ffffffff
+  - equationText: -10a=-2
+    correctAnswer:
+    - _
+    - ' '
+    - 1
+    - 5
+    incorrectAnswer1:
+    - _
+    - ' '
+    - -1
+    - 5
+    incorrectAnswer2:
+    - -5
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer3:
+    - 5
+    - ' '
+    - ' '
+    - ' '
+    encapsulatingXR: []
+    numberXR: 0
+    numberR: -2
+    encapsulatingXL:
+    - -a
+    numberXL: 10
+    numberL: 0
+    incorrectAnswerLeftOrRight: 00000000ffffffffffffffff01000000
+  mediumEquations:
+  - equationText: 2x-4=6
+    correctAnswer:
+    - 5
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer1:
+    - 4
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer2:
+    - 3
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer3:
+    - 2
+    - ' '
+    - ' '
+    - ' '
+    encapsulatingXR: []
+    numberXR: 0
+    numberR: 6
+    encapsulatingXL:
+    - x
+    numberXL: 2
+    numberL: -4
+    incorrectAnswerLeftOrRight: 00000000ffffffffffffffffffffffff
+  - equationText: 3x-1=8
+    correctAnswer:
+    - 3
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer1:
+    - 2
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer2:
+    - 1
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer3:
+    - 0
+    - ' '
+    - ' '
+    - ' '
+    encapsulatingXR: []
+    numberXR: 0
+    numberR: 8
+    encapsulatingXL:
+    - x
+    numberXL: 3
+    numberL: -1
+    incorrectAnswerLeftOrRight: 00000000010000000100000001000000
+  - equationText: 3x-3=9
+    correctAnswer:
+    - 4
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer1:
+    - 5
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer2:
+    - 6
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer3:
+    - 3
+    - ' '
+    - ' '
+    - ' '
+    encapsulatingXR:
+    - x
+    numberXR: 3
+    numberR: -3
+    encapsulatingXL: []
+    numberXL: 0
+    numberL: 9
+    incorrectAnswerLeftOrRight: 00000000ffffffffffffffff01000000
+  - equationText: 2x+7=15
+    correctAnswer:
+    - 4
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer1:
+    - 8
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer2:
+    - 11
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer3:
+    - 22
+    - ' '
+    - ' '
+    - ' '
+    encapsulatingXR: []
+    numberXR: 0
+    numberR: 15
+    encapsulatingXL:
+    - x
+    numberXL: 2
+    numberL: 7
+    incorrectAnswerLeftOrRight: 00000000010000000100000001000000
+  - equationText: 6a+2=20
+    correctAnswer:
+    - 3
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer1:
+    - 4
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer2:
+    - 5
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer3:
+    - 6
+    - ' '
+    - ' '
+    - ' '
+    encapsulatingXR: []
+    numberXR: 0
+    numberR: 20
+    encapsulatingXL:
+    - a
+    numberXL: 6
+    numberL: 2
+    incorrectAnswerLeftOrRight: 00000000010000000100000001000000
+  - equationText: 8x=4x+32
+    correctAnswer:
+    - 8
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer1:
+    - 7
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer2:
+    - 6
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer3:
+    - 5
+    - ' '
+    - ' '
+    - ' '
+    encapsulatingXR:
+    - x
+    numberXR: 4
+    numberR: 32
+    encapsulatingXL:
+    - x
+    numberXL: 8
+    numberL: 0
+    incorrectAnswerLeftOrRight: 00000000ffffffff0100000001000000
+  - equationText: -7=2m-1
+    correctAnswer:
+    - -3
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer1:
+    - -4
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer2:
+    - 3
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer3:
+    - 4
+    - ' '
+    - ' '
+    - ' '
+    encapsulatingXR:
+    - m
+    numberXR: 2
+    numberR: -1
+    encapsulatingXL: []
+    numberXL: 0
+    numberL: -7
+    incorrectAnswerLeftOrRight: 00000000ffffffff0100000001000000
+  - equationText: 20=3m+5
+    correctAnswer:
+    - 5
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer1:
+    - -5
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer2:
+    - 1
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer3:
+    - 8
+    - ' '
+    - ' '
+    - ' '
+    encapsulatingXR:
+    - m
+    numberXR: 3
+    numberR: 5
+    encapsulatingXL: []
+    numberXL: 0
+    numberL: 20
+    incorrectAnswerLeftOrRight: 00000000ffffffffffffffff01000000
+  - equationText: 4x+4=16
+    correctAnswer:
+    - 3
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer1:
+    - -3
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer2:
+    - 5
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer3:
+    - -5
+    - ' '
+    - ' '
+    - ' '
+    encapsulatingXR: []
+    numberXR: 0
+    numberR: 16
+    encapsulatingXL:
+    - x
+    numberXL: 4
+    numberL: 4
+    incorrectAnswerLeftOrRight: 0000000001000000ffffffffffffffff
+  - equationText: -9=16m-1
+    correctAnswer:
+    - _
+    - ' '
+    - -1
+    - 2
+    incorrectAnswer1:
+    - -2
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer2:
+    - _
+    - ' '
+    - 5
+    - 8
+    incorrectAnswer3:
+    - _
+    - ' '
+    - 8
+    - 5
+    encapsulatingXR:
+    - m
+    numberXR: 16
+    numberR: -1
+    encapsulatingXL: []
+    numberXL: 0
+    numberL: -9
+    incorrectAnswerLeftOrRight: 00000000ffffffff0100000001000000
+  - equationText: b+4=-5b+1
+    correctAnswer:
+    - _
+    - ' '
+    - 1
+    - 2
+    incorrectAnswer1:
+    - _
+    - ' '
+    - -1
+    - 2
+    incorrectAnswer2:
+    - -2
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer3:
+    - 2
+    - ' '
+    - ' '
+    - ' '
+    encapsulatingXR:
+    - b
+    numberXR: -5
+    numberR: 1
+    encapsulatingXL:
+    - b
+    numberXL: 1
+    numberL: 4
+    incorrectAnswerLeftOrRight: 0000000001000000ffffffff01000000
+  - equationText: 2y=8y-1
+    correctAnswer:
+    - _
+    - ' '
+    - 1
+    - 6
+    incorrectAnswer1:
+    - _
+    - ' '
+    - 1
+    - 10
+    incorrectAnswer2:
+    - _
+    - ' '
+    - -1
+    - 6
+    incorrectAnswer3:
+    - -10
+    - ' '
+    - ' '
+    - ' '
+    encapsulatingXR:
+    - y
+    numberXR: 8
+    numberR: -1
+    encapsulatingXL:
+    - y
+    numberXL: 2
+    numberL: 0
+    incorrectAnswerLeftOrRight: 00000000ffffffffffffffffffffffff
+  - equationText: -8=3m-15
+    correctAnswer:
+    - _
+    - ' '
+    - 7
+    - 3
+    incorrectAnswer1:
+    - _
+    - ' '
+    - -3
+    - 7
+    incorrectAnswer2:
+    - _
+    - ' '
+    - -23
+    - 3
+    incorrectAnswer3:
+    - -1
+    - ' '
+    - ' '
+    - ' '
+    encapsulatingXR:
+    - m
+    numberXR: 3
+    numberR: -15
+    encapsulatingXL: []
+    numberXL: 0
+    numberL: -8
+    incorrectAnswerLeftOrRight: 00000000ffffffffffffffffffffffff
+  - equationText: 4b-2=-14b+6
+    correctAnswer:
+    - _
+    - ' '
+    - 4
+    - 9
+    incorrectAnswer1:
+    - -2
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer2:
+    - _
+    - ' '
+    - -4
+    - 9
+    incorrectAnswer3:
+    - _
+    - ' '
+    - -8
+    - 10
+    encapsulatingXR:
+    - -b
+    numberXR: 14
+    numberR: 6
+    encapsulatingXL:
+    - b
+    numberXL: 4
+    numberL: -2
+    incorrectAnswerLeftOrRight: 00000000010000000100000001000000
+  hardEquations:
+  - equationText: -5n-22 = n+2)n+1(
+    correctAnswer:
+    - -3
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer1:
+    - 3
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer2:
+    - 6
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer3:
+    - 2
+    - ' '
+    - ' '
+    - ' '
+    encapsulatingXR:
+    - n+2)n+1(
+    numberXR: 1
+    numberR: 0
+    encapsulatingXL:
+    - -n
+    numberXL: 5
+    numberL: -22
+    incorrectAnswerLeftOrRight: 00000000010000000100000001000000
+  - equationText: 3)x+2(=5)x-2(
+    correctAnswer:
+    - 8
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer1:
+    - -8
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer2:
+    - 2
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer3:
+    - -2
+    - ' '
+    - ' '
+    - ' '
+    encapsulatingXR:
+    - x-2
+    numberXR: 5
+    numberR: 0
+    encapsulatingXL:
+    - x+2
+    numberXL: 3
+    numberL: 0
+    incorrectAnswerLeftOrRight: 00000000ffffffffffffffffffffffff
+  - equationText: 4)x-3(=2)x-2x)
+    correctAnswer:
+    - 2
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer1:
+    - 6
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer2:
+    - 3
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer3:
+    - -2
+    - ' '
+    - ' '
+    - ' '
+    encapsulatingXR:
+    - x-2x
+    numberXR: 2
+    numberR: 0
+    encapsulatingXL:
+    - x-3
+    numberXL: 4
+    numberL: 0
+    incorrectAnswerLeftOrRight: 00000000ffffffffffffffff01000000
+  - equationText: -(x-4(+7=2)x-2(
+    correctAnswer:
+    - 5
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer1:
+    - -5
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer2:
+    - 15
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer3:
+    - 1
+    - ' '
+    - ' '
+    - ' '
+    encapsulatingXR:
+    - x-2
+    numberXR: 2
+    numberR: 0
+    encapsulatingXL:
+    - -(x-4(
+    numberXL: 1
+    numberL: 7
+    incorrectAnswerLeftOrRight: 0000000001000000ffffffff01000000
+  - equationText: 3a-12=-5a-3a+10
+    correctAnswer:
+    - 2
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer1:
+    - 2
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer2:
+    - 4
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer3:
+    - -4
+    - ' '
+    - ' '
+    - ' '
+    encapsulatingXR:
+    - 5a-3a
+    numberXR: 1
+    numberR: 10
+    encapsulatingXL:
+    - a
+    numberXL: 3
+    numberL: -12
+    incorrectAnswerLeftOrRight: 00000000ffffffffffffffff01000000
+  - equationText: 5-)2x+1(=)1+x)
+    correctAnswer:
+    - 1
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer1:
+    - -1
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer2:
+    - 2
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer3:
+    - -2
+    - ' '
+    - ' '
+    - ' '
+    encapsulatingXR:
+    - x+1
+    numberXR: 1
+    numberR: 0
+    encapsulatingXL:
+    - -)2x+1(
+    numberXL: 1
+    numberL: 5
+    incorrectAnswerLeftOrRight: 00000000ffffffff01000000ffffffff
+  - equationText: 3n-5=-n+5)n+1(
+    correctAnswer:
+    - -10
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer1:
+    - 10
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer2:
+    - 0
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer3:
+    - 7
+    - ' '
+    - ' '
+    - ' '
+    encapsulatingXR:
+    - -n+5)n+1(
+    numberXR: 1
+    numberR: 0
+    encapsulatingXL:
+    - n
+    numberXL: 3
+    numberL: -5
+    incorrectAnswerLeftOrRight: 00000000ffffffff0100000001000000
+  - equationText: '8)x-3(-4)+2x+2(=0 '
+    correctAnswer:
+    - 1
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer1:
+    - -2
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer2:
+    - -1
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer3:
+    - 2
+    - ' '
+    - ' '
+    - ' '
+    encapsulatingXR:
+    - 8)x-3(-4)+2x+2(
+    numberXR: 1
+    numberR: 0
+    encapsulatingXL: []
+    numberXL: 0
+    numberL: 0
+    incorrectAnswerLeftOrRight: 00000000010000000100000001000000
+  - equationText: m-3=(m-4m+1(-m+1
+    correctAnswer:
+    - 1
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer1:
+    - -1
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer2:
+    - 5
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer3:
+    - 3
+    - ' '
+    - ' '
+    - ' '
+    encapsulatingXR:
+    - (m-4m+1(-m+1
+    numberXR: 1
+    numberR: 0
+    encapsulatingXL:
+    - m
+    numberXL: 1
+    numberL: -3
+    incorrectAnswerLeftOrRight: 0000000001000000ffffffffffffffff
+  - equationText: 9y-2)y-1(=4y-1
+    correctAnswer:
+    - -1
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer1:
+    - 1
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer2:
+    - 5
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer3:
+    - -5
+    - ' '
+    - ' '
+    - ' '
+    encapsulatingXR:
+    - y
+    numberXR: 4
+    numberR: -1
+    encapsulatingXL:
+    - 9y-2)y-1(
+    numberXL: 1
+    numberL: 0
+    incorrectAnswerLeftOrRight: 00000000ffffffff01000000ffffffff
+  - equationText: -6n+1=-n+3)n+1(
+    correctAnswer:
+    - _
+    - ' '
+    - -1
+    - 4
+    incorrectAnswer1:
+    - _
+    - ' '
+    - 1
+    - 4
+    incorrectAnswer2:
+    - 4
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer3:
+    - -4
+    - ' '
+    - ' '
+    - ' '
+    encapsulatingXR:
+    - -n+3)n+1(
+    numberXR: 1
+    numberR: 0
+    encapsulatingXL:
+    - -n
+    numberXL: 6
+    numberL: 1
+    incorrectAnswerLeftOrRight: 000000000100000001000000ffffffff
+  - equationText: -(x-4(-6=5)x-2(
+    correctAnswer:
+    - _
+    - ' '
+    - 4
+    - 3
+    incorrectAnswer1:
+    - _
+    - ' '
+    - -4
+    - 3
+    incorrectAnswer2:
+    - _
+    - ' '
+    - 3
+    - 4
+    incorrectAnswer3:
+    - 5
+    - ' '
+    - ' '
+    - ' '
+    encapsulatingXR:
+    - )x-2(
+    numberXR: 5
+    numberR: 0
+    encapsulatingXL:
+    - -(x-4(
+    numberXL: 1
+    numberL: -6
+    incorrectAnswerLeftOrRight: 0000000001000000ffffffffffffffff
+  - equationText: 4a-10=-5a-3a+10
+    correctAnswer:
+    - _
+    - ' '
+    - 5
+    - 3
+    incorrectAnswer1:
+    - _
+    - ' '
+    - -5
+    - 3
+    incorrectAnswer2:
+    - 0
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer3:
+    - _
+    - ' '
+    - 3
+    - 5
+    encapsulatingXR:
+    - -5a-3a+10
+    numberXR: 1
+    numberR: 0
+    encapsulatingXL:
+    - a
+    numberXL: 4
+    numberL: -10
+    incorrectAnswerLeftOrRight: 00000000010000000100000001000000
+  - equationText: -)3x+2(-5)x-3(=-1
+    correctAnswer:
+    - _
+    - ' '
+    - 7
+    - 4
+    incorrectAnswer1:
+    - _
+    - ' '
+    - -7
+    - 4
+    incorrectAnswer2:
+    - 2
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer3:
+    - _
+    - ' '
+    - 3
+    - 2
+    encapsulatingXR: []
+    numberXR: 0
+    numberR: -1
+    encapsulatingXL:
+    - -)3x+2(-5)x-3(
+    numberXL: 1
+    numberL: 0
+    incorrectAnswerLeftOrRight: 00000000010000000100000001000000
+  - equationText: m-2=)2m+1()3(-4
+    correctAnswer:
+    - _
+    - ' '
+    - -1
+    - 5
+    incorrectAnswer1:
+    - 1
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer2:
+    - _
+    - ' '
+    - 1
+    - 5
+    incorrectAnswer3:
+    - -1
+    - ' '
+    - ' '
+    - ' '
+    encapsulatingXR:
+    - )2m+1()3(-4
+    numberXR: 1
+    numberR: 0
+    encapsulatingXL:
+    - m
+    numberXL: 1
+    numberL: -2
+    incorrectAnswerLeftOrRight: 000000000100000001000000ffffffff
+  - equationText: 5x+2=3)x+2(
+    correctAnswer:
+    - 2
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer1:
+    - -2
+    - ' '
+    - ' '
+    - ' '
+    incorrectAnswer2:
+    - _
+    - ' '
+    - -1
+    - 2
+    incorrectAnswer3:
+    - _
+    - ' '
+    - 1
+    - 2
+    encapsulatingXR:
+    - (x+2(
+    numberXR: 3
+    numberR: 0
+    encapsulatingXL:
+    - x
+    numberXL: 5
+    numberL: 2
+    incorrectAnswerLeftOrRight: 00000000ffffffff0100000001000000

@@ -1,0 +1,121 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 316ae526fb55fa14787f402e764131ad, type: 3}
+  m_Name: DatabaseHolder
+  m_EditorClassIdentifier: 
+  LostHeadSprite: {fileID: 21300000, guid: 106ec726be6e77647b9ed9882ab0638d, type: 3}
+  RedTail: {fileID: 1049212356884191295, guid: 210dd8398b29bba4491673d7d434e41c, type: 3}
+  BlueTail: {fileID: -4746319366763729807, guid: 8d15f73fca394134c8b06c711688693d, type: 3}
+  collectibleRandomSprites:
+  - {fileID: -3289020868813362532, guid: 1f32995060cc54047a3e09625de44629, type: 3}
+  - {fileID: 8591141901481381195, guid: 0e2dea84991dc244fbce24d4b07e565f, type: 3}
+  - {fileID: 6448808092783013682, guid: 5aa4e9a6117976242a8693f78918373d, type: 3}
+  - {fileID: 1669685773626562821, guid: e938b19d089272c40bf265bf271bf32d, type: 3}
+  - {fileID: 269533619020893227, guid: 4e487a40d7a5d354886b1ca3d1c4db7d, type: 3}
+  - {fileID: -157247174256461896, guid: 516d2efc680198f43878e7c4cd32f7af, type: 3}
+  KeyStrings:
+  - a
+  - b
+  - x
+  - y
+  - ax
+  - ab
+  - xy
+  KeyPrefixes:
+  - 
+  - 2
+  - 3
+  - 4
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+  - '-'
+  - -2
+  - -3
+  - -4
+  - -5
+  - -6
+  - -7
+  - -8
+  - -9
+  - -10
+  - 1/2
+  - 1/3
+  - 1/4
+  - 1/5
+  - 1/6
+  - 1/7
+  - 1/8
+  - 1/9
+  - 0.1
+  - -1/2
+  - -1/3
+  - -1/4
+  - -1/5
+  - -1/6
+  - -1.7
+  - -1/8
+  - -1/9
+  - -0.1
+  - 0.2
+  - 0.3
+  - 0.4
+  - 0.5
+  - 0.6
+  - 0.7
+  - 0.8
+  - 0.9
+  - -0.2
+  - -0.3
+  - -0.4
+  - -0.5
+  - -0.6
+  - -0.7
+  - -0.8
+  - -0.9
+  - "\u221A2"
+  - "\u221A3"
+  - "\u221A5"
+  - "\u221A6"
+  - "\u221A7"
+  - "-\u221A2"
+  - "-\u221A3"
+  - "-\u221A5"
+  - "-\u221A6"
+  - "-\u221A7"
+  Constants:
+  - 0
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+  - -1
+  - -2
+  - -3
+  - -4
+  - -5
+  - -6
+  - -7
+  - -8
+  - -9
+  - -10
+  DecimalFarsiFormat: 8,0 -
+  DivisionFarsiFormat: '  1 -----  -  2'

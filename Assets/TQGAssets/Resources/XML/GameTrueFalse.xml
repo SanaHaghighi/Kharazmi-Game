@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data-set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <record>
+    <Question>Fevral oyi 31 kundan iborat</Question>
+    <Answers>
+      <Answer correct="false">Rost</Answer>
+      <Answer correct="true">Yolg'on</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+  </record>
+  <record>
+    <Question>12 yilda 58 fasl bor</Question>
+    <Answers>
+      <Answer correct="false">Rost</Answer>
+      <Answer correct="true">Yolg'on</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+  </record>
+  <record>
+    <Question>Oy sayyora hisoblanadi</Question>
+    <Answers>
+      <Answer correct="false">Rost</Answer>
+      <Answer correct="true">Yolg'on</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+  </record>
+  <record>
+    <Question>Vatikan - dunyodagi eng kichik davlat</Question>
+    <Answers>
+      <Answer correct="true">Rost</Answer>
+      <Answer correct="false">Yolg'on</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+  </record>
+    <record>
+    <Question>Botanika o'simliklarni o'rganadi</Question>
+    <Answers>
+      <Answer correct="true">Rost</Answer>
+      <Answer correct="false">Yolg'on</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+  </record>
+  <record>
+    <Question>Yer quyoshdan uzoqligi bo'yicha 4-sayyora</Question>
+    <Answers>
+      <Answer correct="false">Rost</Answer>
+      <Answer correct="true">Yolg'on</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+  </record>
+  <record>
+    <Question>Xitoy yer maydoni bo'yicha dunyooda birinchi</Question>
+    <Answers>
+      <Answer correct="false">Rost</Answer>
+      <Answer correct="true">Yolg'on</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+  </record>
+   <record>
+    <Question>O'zbekiston Yevropa qit'asida joylashgan</Question>
+    <Answers>
+      <Answer correct="false">Rost</Answer>
+      <Answer correct="true">Yolg'on</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+  </record>
+    <record>
+    <Question>Yer sayyorasida 5 ta okean bor</Question>
+    <Answers>
+      <Answer correct="true">Rost</Answer>
+      <Answer correct="false">Yolg'on</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+  </record>
+  <record>
+    <Question>Tokio - Yaponiyaning poytaxti</Question>
+    <Answers>
+      <Answer correct="true">Rost</Answer>
+      <Answer correct="false">Yolg'on</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+  </record>
+  <record>
+    <Question>O'zbekiston davlat bayrog'ida 8 ta yulduzcha bor</Question>
+    <Answers>
+      <Answer correct="false">Rost</Answer>
+      <Answer correct="true">Yolg'on</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+   </record>
+    <record>
+    <Question>Konstitutsiyamiz 1991-yil qabul qilingan</Question>
+    <Answers>
+      <Answer correct="false">Rost</Answer>
+      <Answer correct="true">Yolg'on</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+   </record>
+   <record>
+    <Question>2014-yil FIFA Jahon chempionatida Germaniya chempion bo'ldi</Question>
+    <Answers>
+      <Answer correct="true">Rost</Answer>
+      <Answer correct="false">Yolg'on</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+   </record>
+   <record>
+    <Question>Bill Geyts Apple kompaniyasiga asos solgan</Question>
+    <Answers>
+      <Answer correct="false">Rost</Answer>
+      <Answer correct="true">Yolg'on</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+   </record>
+    <record>
+    <Question>Suv 1000C gradusda qaynaydi </Question>
+    <Answers>
+      <Answer correct="false">Rost</Answer>
+      <Answer correct="true">Yolg'on</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+   </record>
+   <record>
+    <Question>Toshkent shahridagi INHA Universiteti 2014-yil ochilgan </Question>
+    <Answers>
+      <Answer correct="true">Rost</Answer>
+      <Answer correct="false">Yolg'on</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+   </record>
+   <record>
+    <Question>1m 10sm ga teng</Question>
+    <Answers>
+      <Answer correct="false">Rost</Answer>
+      <Answer correct="true">Yolg'on</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+   </record>
+   <record>
+    <Question>1kg tosh 1kg paxtadan og'ir</Question>
+    <Answers>
+      <Answer correct="false">Rost</Answer>
+      <Answer correct="true">Yolg'on</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+   </record>
+   <record>
+    <Question>Oltin - eng qimmat metall</Question>
+    <Answers>
+      <Answer correct="false">Rost</Answer>
+      <Answer correct="true">Yolg'on</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+   </record>
+   <record>
+    <Question>Vashington - AQShning poytaxti</Question>
+    <Answers>
+      <Answer correct="true">Rost</Answer>
+      <Answer correct="false">Yolg'on</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+   </record>
+   <record>
+    <Question>"Burj Khalifa" 2018-yil bo'yicha eng baland bino</Question>
+    <Answers>
+      <Answer correct="false">Rost</Answer>
+      <Answer correct="true">Yolg'on</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+   </record>
+</data-set>
