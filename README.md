@@ -41,11 +41,6 @@ Supervised by **Dr. Mojtaba Vahidi Asl**, Shahid Beheshti University — Winter 
 ## 🚀 Getting Started
 
 ### Clone & Setup
----
-
-## 🚀 Getting Started
-
-### Clone & Setup
 bash
 
 git clone https://github.com/SanaHaghighi/Kharazmi-Game.git
