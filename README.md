@@ -1,38 +1,43 @@
-# Kharazmi Game (بازی خوارزمی)
+# Kharazmi-Game
 
+An educational web-based game designed to teach mathematical concepts — specifically algebraic equations — to middle school students through game-based learning and gamification.  
+Developed as part of a Bachelor's project at Shahid Beheshti University, this project integrates interactive design, flow-based gameplay, and adaptive difficulty to enhance engagement and learning outcomes.
 
-## Overview
-Kharazmi Game is an educational mathematics game designed to make learning algebraic expressions fun and engaging. Players assume the role of a mathematician collecting "Kharazmi badges" by solving various mathematical challenges across three distinct game stages.
+---
 
-## Game Description
-In this game, you are a clever and curious mathematician who loves solving mathematical problems and wants to earn Kharazmi badges. Using your knowledge and skills in algebraic expressions, you must solve different challenges and collect the maximum number of Kharazmi badges.
+## 🎯 Project Overview
+**Kharazmi-Game** transforms traditional math exercises into immersive game experiences.  
+Students progress through structured levels where each mathematical challenge corresponds to conceptual complexity and visual feedback.  
+The game employs cloud-based score tracking, time management logic, and visual dynamics to maintain attention and motivation.
 
-## Game Stages
+---
 
-### Stage 1: Hunting Algebraic Expressions (Snake Game)
-In this stage, a mischievous snake hunts for similar algebraic expressions. You must guide it to eat as many matching algebraic expressions as possible. Each correct expression the snake eats gives you extra time (5 seconds per matching expression) to solve problems in the next stages.
+## 🧩 Features
+- Web-based platform, accessible via browser  
+- Adaptive difficulty mechanism (auto-adjusts based on player performance)  
+- No “back” navigation during gameplay to preserve challenge integrity  
+- Separate modules for logic, UI, and back-end data flow  
+- Designed for usability and motivation in STEM learning environments  
 
-### Stage 2: Battle with Equations
-Now it's time to solve algebraic equations! By solving each equation, you earn more time to use in the next stage. The faster and more accurately you solve the equations, the higher your score. Each correct answer grants you an additional 10 seconds.
+---
 
-### Stage 3: Raining Algebraic Expressions
-The mathematics sky opens up, and algebraic expressions rain down! You must carefully collect the raindrops and arrange them to create the requested algebraic expressions. Each correct expression you form earns you a Kharazmi badge. Be quick, as the raindrops rapidly disappear!
+## 🧠 Technical Highlights
+- **Language:** Python / JavaScript (depending on build mode)
+- **Frameworks:** HTML5, CSS3, and a logic engine supporting real-time calculations  
+- **Design Architecture:** MAPE-based adaptive model (Monitor, Analyze, Plan, Execute)  
+- **UI/UX Principles:** Simple, clear visual hierarchy; gamified interaction flow; child-friendly assets  
+- **Version:** Initial Clean Release (no prior commits or contributors)
 
-## Game Objective
-Collect 5 Kharazmi badges to win the game and become a math champion!
+---
 
-## Technical Information
-This game is built using:
-- **Unity Engine** - Core game development platform
-- **C# (53.3%)** - Main programming language
-- **ShaderLab (23.4%)** - Custom visual effects
-- **C and C++ (12.9%)** - Performance optimization
-- **CMake (6%)** - Build system
-- **HLSL (4.4%)** - Custom shader programming
+## 📚 Academic Context
+This game serves as an implementation of interactive learning theory in computational education.  
+It was developed as part of a research project titled:  
+**"Design and Implementation of a Game Environment for Teaching Mathematical Concepts through Gamification"**  
+Supervised by **Dr. Mojtaba Vahidi Asl**, Shahid Beheshti University — Winter 1403 (2025).
 
-## Installation
+---
 
-### Requirements
-- Unity 2020.3 or newer
-- Windows 10/11, macOS, or compatible Linux distribution
+## 🚀 Getting Started
 
+### Clone & Setup
