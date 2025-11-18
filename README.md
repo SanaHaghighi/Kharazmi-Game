@@ -1,40 +1,69 @@
-# Kharazmi-Game
-
-An educational web-based game designed to teach mathematical concepts — specifically algebraic equations — to middle school students through game-based learning and gamification.  
-Developed as part of a Bachelor's project at Shahid Beheshti University, this project integrates interactive design, flow-based gameplay, and adaptive difficulty to enhance engagement and learning outcomes.
-
----
-
-## 🎯 Project Overview
-**Kharazmi-Game** transforms traditional math exercises into immersive game experiences.  
-Students progress through structured levels where each mathematical challenge corresponds to conceptual complexity and visual feedback.  
-The game employs cloud-based score tracking, time management logic, and visual dynamics to maintain attention and motivation.
+# Kharazmi-Game  
+**An Educational Math Game for Middle School Students (Grade 8)**  
+*Designed & Conceptualized by Sana Haghighi — Product Designer & UX Researcher*
 
 ---
 
-## 🧩 Features
-- Web-based platform, accessible via browser  
-- Adaptive difficulty mechanism (auto-adjusts based on player performance)  
-- No “back” navigation during gameplay to preserve challenge integrity  
-- Separate modules for logic, UI, and back-end data flow  
-- Designed for usability and motivation in STEM learning environments  
+## 🎯 Overview  
+**Kharazmi-Game** is an interactive learning experience aimed at helping middle-school students (Grade 8) master algebraic concepts through play-based engagement.  
+Built under an academic research framework, the game transforms *abstract mathematical relations* into *visual balance puzzles*, driving intuitive understanding through motion, challenge, and reward flow.
 
 ---
 
-## 🧠 Technical Highlights
-- **Language:** C#, ShaderLab, HLSL (with minor C/C++ for optimization)
-- **Frameworks:** Unity Engine core APIs
-- **Design Architecture:** MAPE-based adaptive model (Monitor, Analyze, Plan, Execute)  
-- **UI/UX Principles:** Simple, clear visual hierarchy; gamified interaction flow; child-friendly assets  
-- **Version:** Final Clean Release 
+## 🌱 Educational Context  
+This project was originally developed as part of an academic research initiative focused on **learning design** and **gamified education**.  
+Its pedagogical structure targets the problem-solving skills of 13–14‑year‑old learners, balancing visual interactivity with mathematical reasoning.
 
 ---
 
-## 📚 Academic Context
-This game serves as an implementation of interactive learning theory in computational education.  
-It was developed as part of a research project titled:  
-**"Design and Implementation of a Game Environment for Teaching Mathematical Concepts through Gamification"**  
-Supervised by **Dr. Mojtaba Vahidi Asl**, Shahid Beheshti University — Winter 1403 (2025).
+## 🎮 Gameplay Structure  
+The game progresses across **four distinct stages**, each designed and prototyped to challenge students from different cognitive angles:
+
+| Stage | Focus Area | Learning Goal |
+|-------|-------------|---------------|
+| **Stage 1 — The Scale** | Visual Equilibrium | Comprehend equality and balance through motion-based puzzles |
+| **Stage 2 — The Rain** | Pattern Recognition | Strengthen arithmetic simplification and logical grouping |
+| **Stage 3 — The Model** | Algebraic Construction | Form and test algebraic equations intuitively |
+| **Stage 4 — The Advanced Challenge** | Applied Problem Solving | Integrate learned algebraic skills under time and adaptive difficulty |
+
+Each stage was carefully adapted to the learning level of **Grade 8 students**, ensuring that difficulty progression matches the academic curriculum and cognitive load required.
+
+---
+
+## 🧩 Design Role  
+As the **Product Designer** and **UX Architect**, Sana directed:
+- **Stage Design Logic:** Constructed full gameplay flow according to learner psychology and engagement feedback.  
+- **Interaction Modeling:** Developed the rhythm of challenge/reward using the MAPE framework (Monitor, Analyze, Plan, Execute).  
+- **UI/UX Design:** Created visual hierarchy, feedback sequence, and minimalistic interface for clarity and focus.  
+- **Human–Computer Interaction:** Defined adaptive responses and real-time loops tailored for educational reinforcement.  
+
+Focus was placed on **conceptual balance between aesthetic simplicity and cognitive challenge**, not source coding.
+
+---
+
+## 🔧 Technical Highlights  
+**Engine:** Unity (using minor C#/ShaderLab elements for procedural visuals)  
+**Languages:** C#, ShaderLab, HLSL *(implemented by collaborators for graphics)*  
+**Framework:** Custom interaction logic built on Unity API  
+**Design Architecture:** MAPE-based adaptive user interaction model  
+**UI/UX Principles:** Minimalist, child-centric design; clear progression feedback  
+**Version:** Final Educational Release  
+
+> Note: Technical implementation supported the product design and was co-engineered by development collaborators.
+
+---
+
+## 📚 Academic Integration  
+The game was implemented and evaluated among Grade 8 students in Tehran (academic year 1403‑1404)  
+to assess usability, engagement, and learning performance improvement.  
+Results confirmed that **well-designed gamified experiences** significantly enhance algebraic understanding and motivation.
+
+---
+
+## 🚀 Future Directions  
+- Integration with dynamic AI tutors for personalized difficulty scaling  
+- Extending the design pattern to Geometry and Fraction modules  
+- Cross‑platform adaptation for classroom simulation environments
 
 ---
 
@@ -78,7 +107,8 @@ Feel free to fork and learn, but all academic credits must reference the origina
 
 ---
 
-## 💬 Credits
-Developed & documented by **Sana Haghighi**  
-Supervised by **Dr. Mojtaba Vahidi Asl**  
-Department of Computer Engineering — Shahid Beheshti University
+## 🪄 Credits  
+- **Concept & Product Design:** *Sana Haghighi*  
+- **Academic Supervision:** Dr. Mojtaba Vahidi Asl  
+- **Implementation Support:** Unity/C# Development Team  
+- **Testing & Validation:** Middle‑school classrooms, Tehran Region II
