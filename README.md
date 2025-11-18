@@ -95,8 +95,8 @@ Feel free to fork and learn, but all academic credits must reference the origina
 
 ---
 
-## 🪄 Credits  
-- **Concept & Product Design:** Sana Haghighi  
+## 🏅 Credits
+- **Concept & Product Design & UX Researcher:** Sana Haghighi  
 - **Academic Supervision:** Dr. Mojtaba Vahidi Asl  
 - **Development Support:** Unity/C# Implementation Team  
 - **Testing & Validation:** Grade 7 classrooms, Tehran Region II
