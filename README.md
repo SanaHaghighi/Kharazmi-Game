@@ -36,9 +36,11 @@ As **Product Designer** and **UX Architect**, Sana guided the entire experie
 - **Learning Psychology:** Balanced performance pressure and enjoyment to maintain continuous educational motivation.  
 
 Focus points: **educational gamification**, **conceptual learning**, and **experiential clarity**, not code development.
+
+---
+
 📌 Portfolio & Case Study
 This project is part of my UX / Product Design portfolio and is fully documented as an academic and practice‑based case study.
----
 👉 Full Case Study (Research, UX Process, Evaluation & Outcomes):
 
 🔗 https://well-blouse-e82.notion.site/Kharazmi-Game-125cfbb04ac881ee9e74ec2e949129d8
@@ -50,6 +52,7 @@ Gamified learning model & interaction design decisions
 UX research methods (classroom testing & mixed‑method evaluation)
 Iterative design process and insight‑driven refinements
 Learning impact, engagement metrics, and academic context
+
 ---
 
 ## 🔧 Technical Highlights  
